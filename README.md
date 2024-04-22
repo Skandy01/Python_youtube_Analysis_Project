@@ -1,7 +1,7 @@
 # Python_youtube_Analysis
 Leveraged advanced text analytics techniques to extract actionable insights from YouTube comments and captions, enhancing content relevance and audience engagement.
 
-Sentiment Analysis: Conducted sentiment analysis on over 5 million YouTube comments, categorizing sentiments as positive, negative, or neutral. Identified a 25% increase in positive sentiment across targeted content categories following implementation of optimization strategies.
+Sentiment Analysis: Conducted sentiment analysis on over 7 lakh YouTube comments, categorizing sentiments as positive, negative, or neutral. Identified a 25% increase in positive sentiment across targeted content categories following implementation of optimization strategies.
 
 Word Cloud Analysis: Utilized word cloud analysis to visualize the most frequently occurring words in YouTube comments and captions. Generated visually compelling word clouds highlighting the top 20 keywords, guiding content creation and optimization efforts.
 Emoji Analysis: Analyzed emoji usage patterns within YouTube comments to gauge audience emotions and reactions. Identified a 30% increase in engagement metrics correlated with the integration of emojis in video content and captions.
